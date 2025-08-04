@@ -30,7 +30,7 @@ const Testimonial = () => {
       title: "Singer, Self-Employeed",
       content:
         "ContentAI has transformed our content creation process. The AI tools have helped us produce high-quality content faster than ever before.",
-      rating: 3,
+      rating: 4,
     },
   ];
 
